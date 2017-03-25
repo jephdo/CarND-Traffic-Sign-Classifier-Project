@@ -19,11 +19,11 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[barchartdistribution]: ./writeup-images/barchartdistribution.jpg "Bar Chart Distribution"
-[yieldsigns]: ./writeup-images/yieldsigns.jpg "Yield Signs"
-[aheadonlysigns]: ./writeup-images/aheadonlysigns.jpg "Ahead Only Signs"
-[beforeprocess]: ./writeup-images/beforeprocess.jpg "Before Processing"
-[afterprocess]: ./writeup-images/afterprocess.jpg "After Processing"
+[barchartdistribution]: ./writeup-images/barchartdistribution.png "Bar Chart Distribution"
+[yieldsigns]: ./writeup-images/yieldsigns.png "Yield Signs"
+[aheadonlysigns]: ./writeup-images/aheadonlysigns.png "Ahead Only Signs"
+[beforeprocess]: ./writeup-images/beforeprocess.png "Before Processing"
+[afterprocess]: ./writeup-images/afterprocess.png "After Processing"
 [image1]: ./writeup-images/sign1.png "Traffic Sign 1"
 [image2]: ./writeup-images/sign2.png "Traffic Sign 2"
 [image3]: ./writeup-images/sign3.png "Traffic Sign 3"
